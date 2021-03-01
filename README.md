@@ -1,4 +1,7 @@
-### Hi there 👋
+### Programming science and math ⚡
+
+![image](https://phoneky.co.uk/thumbs/screensavers/down/nature/fractaltre_qjlfu3zb.gif)
+
 
 <!--
 **SEscobedo/SEscobedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
